@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Version M
-=======
-Version E
->>>>>>> test4
+
+Merge Version 
